@@ -52,5 +52,5 @@ Customize:
 
 2. sortColumnOnLoad
     default: null
-    Other Option: The name of the column you want to sort on when the page loads. To sort on Column 1 when the page         loads, use sortColumnOnLoad:"Column 1" 
+    Other Option: The name of the column you want to sort on when the page loads. To sort on Column 1 when the page         loads, use sortColumnOnLoad:"Column One" 
 
