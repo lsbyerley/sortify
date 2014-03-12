@@ -18,18 +18,18 @@ Setup:
 <tbody>
   <tr>
     <td>1</td>
-    <td>2</td>
-    <td>3</td>
-  <tr>
-  <tr>
     <td>aa</td>
+    <td>98.3</td>
+  <tr>
+  <tr>
+    <td>2</td>
     <td>bb</td>
+    <td>43.7</td>
+  <tr>
+  <tr>
+    <td>3</td>
     <td>cc</td>
-  <tr>
-  <tr>
-    <td>89.1</td>
-    <td>68.2</td>
-    <td>54.8</td>
+    <td>67.2</td>
   <tr>
 <tbody>
 </table>
