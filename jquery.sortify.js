@@ -102,8 +102,8 @@
 		var updateTheDOMandReset = function(){
 			//updating the table in the dom
 			el.find('tbody').html(table.sortedRows);
-			el.find('tbody tr').removeClass('evenrow');
-			el.find('tbody tr:odd').addClass('evenrow');
+			el.find('tbody tr').removeClass('oddrow');
+			el.find('tbody tr:odd').addClass('oddrow');
 
 			//reset the necessary variables
 			table.cellsToSort = [];
